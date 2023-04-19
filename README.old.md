@@ -26,4 +26,5 @@ Components:
 >>PlayFilters         Filters.Component.jsx
 >>Poster              Poster.Component.jsx
 >>PosterSlider        PosterSlider.Component.jsx
->>        
+
+npm create-react-app .        
