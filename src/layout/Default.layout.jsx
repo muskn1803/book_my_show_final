@@ -1,6 +1,6 @@
 //rafce
 import React from "react";
-import Navbar from "../components /Navbar/Navbar.Component";
+import Navbar from "../components/Navbar/Navbar.Component";
 
 const DefaultLayoutHoc =
  (Component) =>
