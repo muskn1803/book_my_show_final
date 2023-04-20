@@ -1,6 +1,6 @@
 //rafce
-import React from 'react'
-import MovieNavbar from '../components /Navbar/MovieNavbar.Component';
+import React from "react"
+import MovieNavbar from "../Components/Navbar/MovieNavbar.Component";
 
 const MovielayoutHoc = 
 (Component) =>

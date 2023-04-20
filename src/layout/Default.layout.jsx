@@ -1,6 +1,6 @@
 //rafce
 import React from "react";
-import Navbar from "../components/Navbar/Navbar.Component";
+import Navbar from "../Components/Navbar/Navbar.Component";
 
 const DefaultLayoutHoc =
  (Component) =>
@@ -14,4 +14,4 @@ const DefaultLayoutHoc =
   );
 };
 
-export default DefaultLayoutHoc;
+export default DefaultLayoutHoc;     

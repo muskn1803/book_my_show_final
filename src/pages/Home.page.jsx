@@ -53,11 +53,9 @@ const HomePage = () => {
              isDark={false}
             />
   </div>
-
-
-    </>
+  </>
     );
-};
+  };
 
 export default DefaultLayoutHoc(HomePage);
 
